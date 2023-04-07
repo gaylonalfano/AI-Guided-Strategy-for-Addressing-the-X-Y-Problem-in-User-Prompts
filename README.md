@@ -1,5 +1,14 @@
-# AI-Guided Strategy for Addressing the X-Y Problem in User Prompts
-Source: https://xyproblem.info/
+
+<div align="center">
+  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
+    <img width="690" src="https://cdn.discordapp.com/attachments/1063949754737897503/1093922826152579172/Tor_A_digital_art_piece_of_a_human_hand_holding_a_brain_surroun_ea7113e8-f963-4e79-a776-8c60da44992c.png" alt="logo">
+  </a>
+  <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="_blank">AI-Guided Strategy for Addressing the X-Y Problem in User Prompts</a></h1>
+    <h1 id="LangChainCheatSheet"><a href="https://xyproblem.info/" target="_blank">The X-Y Problem</a></h1>
+  <p>@Tor101</p>
+</div>
+
+
 I. Understanding the X-Y Problem
 - Occurs when a wrong or inefficient method is used to solve a problem
 - May lead to resource and time wastage
@@ -112,9 +121,18 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
 
 10. Keep learning: Continuously expand your knowledge in your field and stay up to date with best practices, techniques, and tools. This will help you make well-informed decisions when solving problems.
 
+<div align="center">
+  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
+    <img width="690" src="https://cdn.discordapp.com/attachments/1063949754737897503/1093922158398406696/Tor_A_digital_art_piece_of_a_human_hand_holding_a_brain_surroun_21d6fe06-bb9d-4897-9b42-d75e18fc1f7c.png" alt="logo">
+  </a>
+  <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="_blank">System prompts:</a></h1>
+  <p>@Tor101</p>
+</div>
+
 # Suggested system prompt for models:
 ```python
 ?????
 ```
 
 
+More on: https://xyproblem.info/
