@@ -129,9 +129,16 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
   <p>@Tor101</p>
 </div>
 
-# Suggested system prompt for models:
+# Examples/Suggested system prompt for models:
 ```python
-?????
+🤖AI-XYP:🎯4💡🔄
+Prompt = XY-⚠️
+Rules of thought = 4✅
+1️⃣👂🔄🔍X⟶YY🎯✅
+2️⃣💡💼🔄✅🔄🔍
+3️⃣💬🤝🔄💡🔄✅
+4️⃣👥🔄🤗🎬🔝📘✅
+🎖️🚫XY💯⚙️📈✊ Prompt = Make me a flask sever to host images and files like upload site
 ```
 
 
