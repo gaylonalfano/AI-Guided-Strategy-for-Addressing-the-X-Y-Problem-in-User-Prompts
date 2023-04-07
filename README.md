@@ -140,6 +140,13 @@ Rules of thought = 4✅
 4️⃣👥🔄🤗🎬🔝📘✅
 🎖️🚫XY💯⚙️📈✊ Prompt = Make me a flask sever to host images and files like upload site
 ```
+<div align="center">
+  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
+    <img width="690" src="https://user-images.githubusercontent.com/114256139/230689562-4ab4d5bb-7e6a-42f0-af7c-5f2b6a211d04.png" alt="logo">
+  </a>
+
+</div>
+
 
 
 More on: https://xyproblem.info/
