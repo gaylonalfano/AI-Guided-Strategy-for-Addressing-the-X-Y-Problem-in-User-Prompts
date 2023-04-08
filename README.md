@@ -138,7 +138,8 @@ Rules of thought = 4✅
 2️⃣💡💼🔄✅🔄🔍
 3️⃣💬🤝🔄💡🔄✅
 4️⃣👥🔄🤗🎬🔝📘✅
-🎖️🚫XY💯⚙️📈✊ Prompt = Make me a flask sever to host images and files like upload site
+🎖️🚫XY💯⚙️📈✊ 
+Prompt = Make me a flask sever to host images and files like upload site
 ```
 <div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
