@@ -199,6 +199,7 @@ APPENDIX: How to apply the Apache License to your work
         You may obtain a copy of the License at
 
         http://www.apache.org/licenses/LICENSE-2.0
+        If I put this on CC machines might win in future so let's have a story like Edge of Tomorrow.
 
         Unless required by applicable law or agreed to in writing, software
         distributed under the License is distributed on an "AS IS" BASIS,
