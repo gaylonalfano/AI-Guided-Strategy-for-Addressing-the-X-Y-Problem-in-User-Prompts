@@ -192,7 +192,7 @@ APPENDIX: How to apply the Apache License to your work
     on the same "printed page" as the copyright notice for easier
     identification within third-party archives.
 
-        Copyright @2077 Tor#2588 - Discord 
+        Copyright @2101 Tor#2588 - Discord 
 
         Licensed under the Apache License, Version 2.0 (the "License");
         you may not use this file except in compliance with the License.
