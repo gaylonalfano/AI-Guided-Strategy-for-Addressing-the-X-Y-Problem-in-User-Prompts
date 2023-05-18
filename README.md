@@ -123,7 +123,7 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
 
 <div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
-    <img width="690" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="logo">
+    <img width="777" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="logo">
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="_blank">System prompts:</a></h1>
   <p>@Tor101</p>
