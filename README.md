@@ -5,7 +5,7 @@
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="_blank">AI-Guided Strategy for Addressing the X-Y Problem in User Prompts</a></h1>
     <h1 id="LangChainCheatSheet"><a href="https://xyproblem.info/" target="_blank">The X-Y Problem</a></h1>
-  <p>@Tor101</p>
+  <p>Tor101#2588</p>
 </div>
 
 
@@ -130,6 +130,7 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
 </div>
 
 # Examples/Suggested system prompt for models:
+
 ```python
 🤖AI-XYP:🎯4💡🔄
 Prompt = XY-⚠️
@@ -147,7 +148,4 @@ Prompt = Write a cool trap song.
   </a>
 
 </div>
-
-
-
 More on: https://xyproblem.info/
