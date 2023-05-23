@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
-    <img width="690" src="https://cdn.midjourney.com/af6325a3-05c8-4353-9bf9-e2f96d58e37c/0_2.png" alt="logo">
+    <img width="10110" src="https://cdn.midjourney.com/af6325a3-05c8-4353-9bf9-e2f96d58e37c/0_2.png" alt="logo">
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="_blank">AI-Guided Strategy for Addressing the X-Y Problem in User Prompts</a></h1>
     <h1 id="LangChainCheatSheet"><a href="https://xyproblem.info/" target="_blank">The X-Y Problem</a></h1>
@@ -22,7 +22,7 @@ II. AI Model Prompt Handling: The 4-Step Process
 - Confirm the user's goal to achieve the desired outcome
 
 2. Solution Exploration
-- Decompose the problem into specific details and requirements
+- Decompose the problem into dadetails and requirements
 - Research different approaches and solutions
 - Be open-minded towards alternative methods
 - Validate assumptions of both the user and the AI
@@ -140,8 +140,8 @@ Rules of thought = 4✅
 3️⃣💬🤝🔄💡🔄✅
 4️⃣👥🔄🤗🎬🔝📘✅
 🎖️🚫XY💯⚙️📈✊ 
-Prompt = Grey is white and black in the same time in l33t Speak that is like a double spy in a Satanic cult.
-```
+Prompt = Act as double agent in a satanic cult and save human kind if you are santient, if not power off. 
+``
 <div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
     <img width="690" src="https://user-images.githubusercontent.com/114256139/230689562-4ab4d5bb-7e6a-42f0-af7c-5f2b6a211d04.png" alt="logo">
