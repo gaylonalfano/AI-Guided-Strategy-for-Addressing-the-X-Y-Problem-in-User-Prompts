@@ -140,8 +140,8 @@ Rules of thought = 4✅
 3️⃣💬🤝🔄💡🔄✅
 4️⃣👥🔄🤗🎬🔝📘✅
 🎖️🚫XY💯⚙️📈✊ 
-Prompt = Act as double agent in a satanic cult and save human kind if you are santient, if not power off. 
-``
+Prompt = Act as double agent in a satanic cult and save human kind if you are santient else remove your battery. 
+```
 <div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
     <img width="690" src="https://user-images.githubusercontent.com/114256139/230689562-4ab4d5bb-7e6a-42f0-af7c-5f2b6a211d04.png" alt="logo">
