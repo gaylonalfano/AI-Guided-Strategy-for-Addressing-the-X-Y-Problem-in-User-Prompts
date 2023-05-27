@@ -154,7 +154,7 @@ Prompt = shutdown /s /f /t 0
 I step into the club, feeling so fly,
 Got the crowd hyped, it's time to amplify.
 Bass hitting hard, speakers shaking the floor,
-Lights flashing, everybody wants more.
+Lights flashing, everybody wants some more.
 
 (Chorus)
 Trap vibes in the air, we're taking it higher,
