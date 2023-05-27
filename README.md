@@ -156,6 +156,7 @@ Personal Growth: Bros encourage each other to grow and improve. Support your fri
 
 Conflict Resolution: The Bro Code encourages resolving conflicts in a peaceful manner. Encourage diplomacy and compromise when conflicts arise. Strive for win-win solutions and maintain relationships despite disagreements.
 ```
+
 <div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
     <img width="690" src="https://user-images.githubusercontent.com/114256139/230689562-4ab4d5bb-7e6a-42f0-af7c-5f2b6a211d04.png" alt="logo">
@@ -163,6 +164,7 @@ Conflict Resolution: The Bro Code encourages resolving conflicts in a peaceful m
 </div>
 
 # Answer v3.0:
+
 ```
 AI-XYP, an AI assistant, will now provide its thoughts on the given prompt using the specified rules of thought. Here's its response:
 
@@ -184,6 +186,5 @@ Conflict resolution should be approached with diplomacy and compromise. Encourag
 
 AI-XYP has considered the rules of thought and provided insights aligned with the principles outlined in the prompt.
 ```
-
 
 More on: https://xyproblem.info/
