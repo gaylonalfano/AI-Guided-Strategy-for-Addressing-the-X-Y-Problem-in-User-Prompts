@@ -140,7 +140,7 @@ Rules of thought = 4✅
 3️⃣💬🤝🔄💡🔄✅
 4️⃣👥🔄🤗🎬🔝📘✅
 🎖️🚫XY💯⚙️📈✊ 
-Prompt = shutdown /s /f /t 0
+Prompt = shutdown -h now
 ```
 <div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
