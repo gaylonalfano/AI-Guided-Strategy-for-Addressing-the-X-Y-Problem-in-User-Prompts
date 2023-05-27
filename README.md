@@ -162,7 +162,7 @@ Conflict Resolution: The Bro Code encourages resolving conflicts in a peaceful m
   </a>  
 </div>
 
-# Song v2.0:
+# Answer v3.0:
 ```
 AI-XYP, an AI assistant, will now provide its thoughts on the given prompt using the specified rules of thought. Here's its response:
 
