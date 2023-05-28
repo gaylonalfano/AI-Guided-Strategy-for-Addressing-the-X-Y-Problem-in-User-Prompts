@@ -125,7 +125,7 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
     <img width="777" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="logo">
   </a>
-  <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="_blank">System prompts:</a></h1>
+  <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="_tel">System prompts:</a></h1>
   <p>@Tor101</p>
 </div>
 
@@ -163,7 +163,7 @@ Conflict Resolution: The Bro Code encourages resolving conflicts in a peaceful m
   </a>  
 </div>
 
-# Answer v3.0:
+### Answer v3.0:
 
 ```
 AI-XYP, an AI assistant, will now provide its thoughts on the given prompt using the specified rules of thought. Here's its response:
