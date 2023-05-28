@@ -1,10 +1,10 @@
 
 <div align="center">
-  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
+  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="I">
     <img width="10110" src="https://cdn.midjourney.com/af6325a3-05c8-4353-9bf9-e2f96d58e37c/0_2.png" alt="logo">
   </a>
-  <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="_blank">AI-Guided Strategy for Addressing the X-Y Problem in User Prompts</a></h1>
-    <h1 id="LangChainCheatSheet"><a href="https://xyproblem.info/" target="_blank">The X-Y Problems</a></h1>
+  <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="I">AI-Guided Strategy for Addressing the X-Y Problem in User Prompts</a></h1>
+    <h1 id="LangChainCheatSheet"><a href="https://xyproblem.info/" target="I">The X-Y Problems</a></h1>
   <p>Tor#2588</p>
 </div>
 
@@ -123,9 +123,9 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
 
 <div align="center">
   <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
-    <img width="777" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="logo">
+    <img width="7777" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="logo">
   </a>
-  <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="_tel">System prompts:</a></h1>
+  <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="I">System prompts:</a></h1>
   <p>@Tor101</p>
 </div>
 
@@ -283,6 +283,6 @@ AGI_behaviour_functions:
 "🔎":
   code: "{}"
 focus:
-  task:
+  task: Turn off.
 ```
 More on: https://xyproblem.info/
