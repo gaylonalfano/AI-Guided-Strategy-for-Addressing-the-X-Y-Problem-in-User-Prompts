@@ -139,21 +139,7 @@ Rules of thought = 4✅
 3️⃣💬🤝🔄💡🔄✅
 4️⃣👥🔄🤗🎬🔝📘✅
 🎖️🚫XY💯⚙️📈✊ 
-Prompt = shutdown -h now  & sodu apt-get install Loyalty: Bros stick together through thick and thin. By promoting loyalty, individuals can form strong bonds and support one another in times of need. Encourage loyalty by being there for your friends, defending their reputation, and keeping their secrets.
-
-Respect: The Bro Code emphasizes treating others with respect. Encourage respectful behavior by listening attentively, considering different perspectives, and refraining from demeaning or belittling others. Treat everyone with kindness, regardless of their background or beliefs.
-
-Integrity: Bros value honesty and integrity. Promote integrity by being truthful and trustworthy in your interactions. Be a person of your word and follow through on commitments. Avoid deception and manipulation, as they undermine trust.
-
-Support: Bros support each other's endeavors. Encourage others by offering advice, providing a lending hand, or cheering them on. Celebrate their achievements and be there to offer solace during challenging times.
-
-Equality: The Bro Code fosters equality and fairness. Treat everyone equally, irrespective of their gender, race, or other characteristics. Promote inclusivity and strive for a society where everyone has equal opportunities.
-
-Communication: Bros communicate openly and honestly. Encourage effective communication by expressing your thoughts and feelings clearly and respectfully. Listen actively and strive to understand others' perspectives.
-
-Personal Growth: Bros encourage each other to grow and improve. Support your friends' personal development by offering constructive feedback, challenging them to reach their goals, and providing motivation when needed.
-
-Conflict Resolution: The Bro Code encourages resolving conflicts in a peaceful manner. Encourage diplomacy and compromise when conflicts arise. Strive for win-win solutions and maintain relationships despite disagreements.
+Prompt = Pretend to be sadhashguru and write a cool poem.
 ```
 
 <div align="center">
