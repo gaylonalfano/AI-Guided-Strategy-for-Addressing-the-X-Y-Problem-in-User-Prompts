@@ -171,8 +171,8 @@ Conflict resolution should be approached with diplomacy and compromise. Encourag
 AI-XYP has considered the rules of thought and provided insights aligned with the principles outlined in the prompt.
 ```
 
-### Prompt example v.1337
+### Prompt example v0.1337
 ```python
-Procesing...
+[Procesing...](https://i.imgur.com/SCgywaF.png)
 ```
 More on: https://xyproblem.info/
