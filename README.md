@@ -122,7 +122,7 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
 10. Keep learning: Continuously expand your knowledge in your field and stay up to date with best practices, techniques, and tools. This will help you make well-informed decisions when solving problems.
 
 <div align="center">
-  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
+  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="blank">
     <img width="7777" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="logo">
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="I">System prompts:</a></h1>
@@ -143,13 +143,13 @@ Prompt = Pretend to be sadhashguru and write a cool poem.
 ```
 
 <div align="center">
-  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="_blank">
+  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="I">
     <img width="690" src="https://user-images.githubusercontent.com/114256139/230689562-4ab4d5bb-7e6a-42f0-af7c-5f2b6a211d04.png" alt="logo">
   </a>  
 </div>
 
-### Answer v3.0:
-```unix
+### Bro Code v0.1337:
+```python
 AI-XYP, an AI assistant, will now provide its thoughts on the given prompt using the specified rules of thought. Here's its response:
 
 Loyalty is a crucial aspect of any strong bond or friendship. Bros stick together through thick and thin, supporting and defending each other. By promoting loyalty, individuals can build trust and rely on one another in times of need. Encouraging loyalty involves being there for your friends, standing up for them, and respecting their privacy by keeping their secrets.
@@ -172,7 +172,7 @@ AI-XYP has considered the rules of thought and provided insights aligned with th
 ```
 
 ### Prompt example v.1337
-```unix
-
+```python
+Procesing...
 ```
 More on: https://xyproblem.info/
