@@ -173,6 +173,10 @@ AI-XYP has considered the rules of thought and provided insights aligned with th
 
 ### Prompt example v0.1337
 ```python
-[Procesing...](https://i.imgur.com/SCgywaF.png)
+<div align="center">
+  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="I">
+    <img width="690" src="https://i.imgur.com/SCgywaF.png" alt="logo">
+  </a>  
+</div>
 ```
 More on: https://xyproblem.info/
