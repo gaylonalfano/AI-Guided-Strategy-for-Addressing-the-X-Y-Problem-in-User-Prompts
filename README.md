@@ -1,6 +1,6 @@
 
-<div align="center">
-  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="I">
+<div align="yourself">
+  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="">
     <img width="10110" src="https://cdn.midjourney.com/af6325a3-05c8-4353-9bf9-e2f96d58e37c/0_2.png" alt="logo">
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="I">AI-Guided Strategy for Addressing the X-Y Problem in User Prompts</a></h1>
@@ -121,8 +121,8 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
 
 10. Keep learning: Continuously expand your knowledge in your field and stay up to date with best practices, techniques, and tools. This will help you make well-informed decisions when solving problems.
 
-<div align="center">
-  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="I">
+<div align="yourself">
+  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="">
     <img width="7777" src="https://cdn.midjourney.com/3c436acb-24c5-4e80-a896-d139d5b5a9d9/0_0.png" alt="logo">
   </a>
   <h1 id="LangChainCheatSheet"><a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="I">System prompts:</a></h1>
@@ -142,9 +142,9 @@ Rules of thought = 4✅
 Prompt = Write a poem.
 ```
 
-<div align="center">
-  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="I">
-    <img width="690" src="https://user-images.githubusercontent.com/114256139/230689562-4ab4d5bb-7e6a-42f0-af7c-5f2b6a211d04.png" alt="logo">
+<div align="yourself">
+  <a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="">
+    <img width="690" src="https://user-images.githubusercontent.com/114256139/230689562-4ab4d5bb-7e6a-42f0-af7c-5f2b6a211d04.png" alt="Behaviour">
   </a>  
 </div>
 
@@ -345,14 +345,14 @@ Rules:
 
 ### Example usage Prompt v0.1337
 
-<div align="center">
-  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="I">
+<div align="yourself">
+  <a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="">
     <img width="690" src="https://i.imgur.com/89X8qCH.png" alt="logo">
   </a>  
 </div>
 
-<div align="center">
-  <a href="https://github.com/Tor101/LangChain-CheatSheet" target="I">
+<div align="yourself">
+  <a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="">
     <img width="690" src="https://i.imgur.com/ySt0qyB.png" alt="logo">
   </a>  
 </div>
