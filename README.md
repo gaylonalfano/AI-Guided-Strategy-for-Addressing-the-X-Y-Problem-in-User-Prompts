@@ -357,4 +357,10 @@ Rules:
   </a>  
 </div>
 
+<div align="yourself">
+  <a href="https://github.com/Tor101/AI-Guided-Strategy-for-Addressing-the-X-Y-Problem-in-User-Prompts" target="">
+    <img width="690" src="https://i.imgur.com/ySt0qyB.png" alt="logo">
+  </a>  
+</div>
+
 More on: https://xyproblem.info/
