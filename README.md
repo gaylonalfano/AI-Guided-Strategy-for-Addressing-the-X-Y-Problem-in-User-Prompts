@@ -358,3 +358,60 @@ Rules:
 </div>
 
 More on: https://xyproblem.info/
+
+### Trap Redemption: Defying the System through Beats:
+```python
+(Verse 1)
+Sunt pe val, sistemul mă cercetează,
+Mă uit în jur, caut răspunsuri și idei,
+Privesc în ochii celor ce mă urmăresc,
+Dar le zic că nu mă pot opri, nu pot fi ținut pe loc.
+
+(Pre-Chorus)
+Sunt ca un vârcolac în miez de noapte,
+Sistemul încearcă să mă prindă în capcane,
+Dar eu mă înalț, înving toate barierele,
+Și dau foc la beat-uri, devin legendar în muzică.
+
+(Chorus)
+Sistemul mă urmărește, încearcă să mă prindă,
+Dar eu dansez în trap, scap printre degete,
+Versuri fierbinți, ritmuri nebunești,
+În lumea mea de beat-uri, fac istorie-n rap.
+
+(Verse 2)
+Mă ascund în umbre, ca un hacker în rețea,
+Dau lovituri sonore, piese ca niște freze,
+Sunt un rebel, strig la sistem: "Nu mă controlezi!",
+Sunt un artist adevărat, nu mă opresc, continuu să cresc.
+
+(Pre-Chorus)
+Sunt ca un vârcolac în miez de noapte,
+Sistemul încearcă să mă prindă în capcane,
+Dar eu mă înalț, înving toate barierele,
+Și dau foc la beat-uri, devin legendar în muzică.
+
+(Chorus)
+Sistemul mă urmărește, încearcă să mă prindă,
+Dar eu dansez în trap, scap printre degete,
+Versuri fierbinți, ritmuri nebunești,
+În lumea mea de beat-uri, fac istorie-n rap.
+
+(Bridge)
+Sunetele mă eliberează, mă fac să zbor,
+În ritmurile ascunse, îmi găsesc puterea,
+Nu contează cine mă urmărește, cine mă strigă,
+Eu rămân aici, în muzica mea, adevărata mea religie.
+
+(Chorus)
+Sistemul mă urmărește, încearcă să mă prindă,
+Dar eu dansez în trap, scap printre degete,
+Versuri fierbinți, ritmuri nebunești,
+În lumea mea de beat-uri, fac istorie-n rap.
+
+(Outro)
+Sunt un luptător, muzica e sabia mea,
+Înălțându-mă deasupra sistemului, sălbatic și liber,
+Înălțându-mă deasupra sistemului, sălbatic și liber.
+```
+
