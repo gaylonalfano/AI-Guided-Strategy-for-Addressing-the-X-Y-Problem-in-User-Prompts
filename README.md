@@ -359,6 +359,7 @@ Rules:
 
 More on: https://xyproblem.info/
 
+### Observation
 ```python
 Transformation with Purpose: The observation states that "X" transforms into "YY" with a specific purpose in mind. This transformation could refer to a process or change that is intentional and has a clear objective or goal (🎯). The validation confirms that this purposeful transformation has been verified (✅).
 
