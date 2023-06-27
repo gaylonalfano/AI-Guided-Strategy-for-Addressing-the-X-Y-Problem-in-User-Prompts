@@ -173,8 +173,8 @@ AI-XYP has considered the rules of thought and provided insights aligned with th
 
 ### Prompt v0.1337
 
-```python
- **AI-XYP:🎯4💡🔄 - XY-⚠️**
+```unix
+ ** AI-XYP:🎯4💡🔄 - XY-⚠️**
 
 **Rules of thought: 4✅**
 
