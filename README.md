@@ -131,7 +131,7 @@ To avoid and solve the X-Y Problem by oneself, follow these guidelines:
 
 # Examples/Suggested system prompt for models: 
 ```unix
-🤖AI-XYP:🎯4💡🔄
+AI-XYP:🎯4💡🔄
 Prompt = XY-⚠️
 Rules of thought = 4✅
 1️⃣👂🔄🔍X⟶YY🎯✅
